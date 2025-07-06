@@ -1,0 +1,10 @@
+llm:
+  openai:
+    provider: "openai"
+    model_name: "gpt-4o"
+    api_key: ""
+    api_version: ""
+    endpoint: ""
+  groq:
+    provider: "groq"
+    model_name: "deepseek-r1-distill-llama-70b"
